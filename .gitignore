@@ -4,14 +4,11 @@ venv/
 .venv
 .venv/
 
-.idea
-.idea/
-
-
 __pycache__/
 *.py[cod]
 
 .idea
+.idea/
 .DS_Store
 .AppleDouble
 .LSOverride
